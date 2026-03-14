@@ -1,0 +1,11 @@
+order_id,customer_id,product_name,category,revenue,marketing_spend,order_date
+1,101,Phone,Electronics,500,50,2024-01-05
+2,102,Laptop,Electronics,900,80,2024-01-10
+3,103,Shoes,Fashion,120,20,2024-02-15
+4,104,Tshirt,Fashion,60,10,2024-02-20
+5,105,Watch,Accessories,200,25,2024-03-01
+6,101,Phone,Electronics,500,50,2024-03-10
+7,106,Bag,Fashion,150,30,2024-03-15
+8,107,Headphones,Electronics,250,40,2024-04-01
+9,108,Shoes,Fashion,130,22,2024-04-10
+10,109,Watch,Accessories,220,28,2024-04-20

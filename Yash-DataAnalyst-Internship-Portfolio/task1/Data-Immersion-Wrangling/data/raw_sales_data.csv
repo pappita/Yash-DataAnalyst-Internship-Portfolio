@@ -1,0 +1,7 @@
+customer_id,customer_name,email,date_of_birth,gender,city,purchase_date,product_category,amount,payment_method
+1,Rahul Sharma,rahul@gmail.com,1998-05-12,Male,Delhi,12-01-2024,Electronics,25000,UPI
+2,Pooja Verma,pooja@gmail.com,2000-08-22,Female,Mumbai,15-02-2024,Clothing,3500,Card
+3,Amit Singh,amit@gmail.com,1995-03-18,Male,,20-03-2024,Groceries,,Cash
+4,Rahul Sharma,rahul@gmail.com,1998-05-12,Male,Delhi,12-01-2024,Electronics,25000,UPI
+5,Neha Jain,neha@gmail.com,1992-11-10,Female,Bangalore,05-04-2024,Electronics,999999,Card
+6,Karan Mehta,karan@gmail.com,1997-09-09,Male,Chennai,18-05-2024,Clothing,4500,UPI
